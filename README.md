@@ -69,7 +69,7 @@ The same dataset is available on **Hugging Face**:
 [https://huggingface.co/datasets/NewsDataHub/cybersecurity-news-dataset-english-3000](https://huggingface.co/datasets/NewsDataHub/cybersecurity-news-dataset-english-3000)
 
 and **Kaggle**: 
-[https://www.kaggle.com/datasets/olgash270/openai-vs-anthropic-news-coverage-last-6-months](https://www.kaggle.com/datasets/olgash270/cybersecurity-news-dataset-english-3000)
+[https://www.kaggle.com/datasets/olgash270/cybersecurity-news-dataset-english-3000](https://www.kaggle.com/datasets/olgash270/cybersecurity-news-dataset-english-3000)
 
 ## Contact
 

@@ -1,4 +1,5 @@
 # Cybersecurity News Coverage (English)
+<img width="766" height="437" alt="Screenshot 2026-02-11 at 11 38 19 AM" src="https://github.com/user-attachments/assets/e1aeabb2-7dfd-4f39-902e-90b4758a8de4" />
 
 ## Dataset Summary
 This dataset contains 3,000 English-language cybersecurity news metadata rows collected from the NewsDataHub API. It is designed for coverage trend analysis and comparative topic visibility over time.
